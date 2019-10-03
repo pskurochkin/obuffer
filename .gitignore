@@ -1,0 +1,7 @@
+# ide
+.idea/
+
+# build directory
+debug/
+release/
+*build*/
